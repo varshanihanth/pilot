@@ -1,0 +1,298 @@
+Lab Name,Experiment id,Requirements,Test Step Id,Test Case Type,Test Description,Test Steps,Expected Result,Status,Test Case Owner,Pre/Post Conditions,Data/Environment Required,Dev Owner,Reviewed,History,Additional Comments
+Virtual Anthropology Lab,,User friendliness of the Experiment,1,Usability,Experiment should be easily usable,"While testing observe for easiness to use the features of the experiment
+
+Information to use the experiment
+Navigation
+Look and Feel
+Speed
+
+
+",Experiment should be user friendly,Inprogress,Nihanth,"1.Open the url vlabs.ac.in and vlabs home page will be displayed 
+2. Click on IIT Guwahati and a list of labs will be displayed on the screen 
+3.Select Virtual Anthropology Lab , it will redirect to the home page where a list of experiments will be displayed 
+4.Select """"Identification of Prehistoric handaxe""” experiment.","OS: Windows 7, Linux
+Browsers: Firefox,Chrome
+Bandwidth : 100Mbps
+Hardware Configuration:8GBRAM , 
+Processor:i5
+",,,,
+Virtual Anthropology Lab,,"User should be able to view the Theory of ""Identification of Prehistoric handaxe"" experiment",2,Positive,"To view the theory of the ""Identification of Prehistoric handaxe"" experiment","1.Click on the theory link 
+2.It should re-direct to the theory page","1.Theory page should be opened
+2.Content should be present with no distortions and Junk characters",Inprogress,Nihanth,Refer to the test step id 1,"OS: Windows 7, Linux
+Browsers: Firefox,Chrome
+Bandwidth : 100Mbps
+Hardware Configuration:8GBRAM , 
+Processor:i5",,,,
+Virtual Anthropology Lab,,"User should be able to view the Procedure of ""Identification of Prehistoric handaxe"" experiment",3,Positive,"To view the Procedure of ""Identification of Prehistoric handaxe"" experiment","1.Click on the Procedure link 
+2.It should re-direct to the Procedure page","1.Procedure page should be opened
+2.Content should be present with no distortions and Junk characters",Inprogress,Nihanth,Refer to the test step id 1,"OS: Windows 7, Linux
+Browsers: Firefox,Chrome
+Bandwidth : 100Mbps
+Hardware Configuration:8GBRAM , 
+Processor:i5",,,,
+Virtual Anthropology Lab,,"User should be able to view the Simulation of ""Identification of Prehistoric handaxe"" experiment",4,Positive,"To view the Simulation of the ""Identification of Prehistoric handaxe"" experiment","1.Click on the Simulation link 
+2.It should re-direct to the Simulation page","1.Simulation page should be opened
+2.Content should be present with no distortions and Junk characters",Inprogress,Nihanth,Refer to the test step id 1,"OS: Windows 7, Linux
+Browsers: Firefox,Chrome
+Bandwidth : 100Mbps
+Hardware Configuration:8GBRAM , 
+Processor:i5
+Plugin : Adobe flash player",,,,
+Virtual Anthropology Lab,,"User should be able to perform the Simulation of ""Identification of Prehistoric handaxe"" experiment",5,Positive,"To perform the Simulation of the ""Identification of Prehistoric handaxe"" experiment","1.Click on the Simulation link 
+2.It should re-direct to the Simulation page
+3.Click on the 'stone test tool 1' link
+4.Drag 'Handaxe' and fill in the parts in the appropriate boxes provided on the right hand side of the page
+5.Fill only one box and click on the submit button","1.Simulation page should be opened
+2.Content should be present with no distortions and Junk characters
+3.A new page should be opened with the simulation process
+4.A 'try again' message should be displayed on the screen",Inprogress,Nihanth,Refer to the test step id 1,"OS: Windows 7, Linux
+Browsers: Firefox,Chrome
+Bandwidth : 100Mbps
+Hardware Configuration:8GBRAM , 
+Processor:i5
+Plugin : Adobe flash player",,,,
+Virtual Anthropology Lab,,"User should be able to perform the Simulation of ""Identification of Prehistoric handaxe"" experiment",6,Positive,"To perform the Simulation of the ""Identification of Prehistoric handaxe"" experiment","1.Click on the Simulation link 
+2.It should re-direct to the Simulation page
+3.Click on the 'stone test tool 1' link
+4.Drag 'Handaxe' and fill in the parts in the appropriate boxes provided on the right hand side of the page
+5.Click on the Reset button","1.Simulation page should be opened
+2.Content should be present with no distortions and Junk characters
+3.A new page should be opened with the simulation process
+4.All the arranged parts should be ereased from the position",Inprogress,Nihanth,Refer to the test step id 1,"OS: Windows 7, Linux
+Browsers: Firefox,Chrome
+Bandwidth : 100Mbps
+Hardware Configuration:8GBRAM , 
+Processor:i5
+Plugin : Adobe flash player",,,,
+Virtual Anthropology Lab,,"User should be able to perform the Simulation of ""Identification of Prehistoric handaxe"" experiment",7,Positive,"To perform the Simulation of the ""Identification of Prehistoric handaxe"" experiment","1.Click on the Simulation link 
+2.It should re-direct to the Simulation page
+3.Click on the 'stone test tool 1' link
+4.Drag 'Handaxe' and fill in the parts in the appropriate boxes provided on the right hand side of the page
+5.Click on the submit button","1.Simulation page should be opened
+2.Content should be present with no distortions and Junk characters
+3.A new page should be opened with the simulation process
+4.If the arranged parts are in correct order, then a successful message should be displayed on the screen ,if not 'try again' message should be displayed on the screen",Inprogress,Nihanth,Refer to the test step id 1,"OS: Windows 7, Linux
+Browsers: Firefox,Chrome
+Bandwidth : 100Mbps
+Hardware Configuration:8GBRAM , 
+Processor:i5
+Plugin : Adobe flash player",,,,
+Virtual Anthropology Lab,,"User should be able to perform the Simulation of ""Identification of Prehistoric handaxe"" experiment",8,Positive,"To perform the Simulation of the ""Identification of Prehistoric handaxe"" experiment","1.Click on the Simulation link 
+2.It should re-direct to the Simulation page
+3.Click on the 'stone test tool 2' link
+4.Drag only one replicated shape provided in the  left hand side of the page and set on the accurate position of the image
+5.Click on the submit button","1.Simulation page should be opened
+2.Content should be present with no distortions and Junk characters
+3.A new page should be opened with the simulation process
+4.A 'try again' message should be displayed on the screen",Inprogress,Nihanth,Refer to the test step id 1,"OS: Windows 7, Linux
+Browsers: Firefox,Chrome
+Bandwidth : 100Mbps
+Hardware Configuration:8GBRAM , 
+Processor:i5
+Plugin : Adobe flash player",,,,
+Virtual Anthropology Lab,,"User should be able to perform the Simulation of ""Identification of Prehistoric handaxe"" experiment",9,Positive,"To perform the Simulation of the ""Identification of Prehistoric handaxe"" experiment","1.Click on the Simulation link 
+2.It should re-direct to the Simulation page
+3.Click on the 'stone test tool 2' link
+4.Drag replicated shapes provided in the  left hand side of the page and set on the accurate position of the image
+5.Click on the submit button","1.Simulation page should be opened
+2.Content should be present with no distortions and Junk characters
+3.A new page should be opened with the simulation process
+4.If the arranged parts are in correct order, then a successful message should be displayed on the screen ,if not 'try again' message should be displayed on the screen",Inprogress,Nihanth,Refer to the test step id 1,"OS: Windows 7, Linux
+Browsers: Firefox,Chrome
+Bandwidth : 100Mbps
+Hardware Configuration:8GBRAM , 
+Processor:i5
+Plugin : Adobe flash player",,,,
+Virtual Anthropology Lab,,"User should be able to perform the Simulation of ""Identification of Prehistoric handaxe"" experiment",10,Positive,"To perform the Simulation of the ""Identification of Prehistoric handaxe"" experiment","1.Click on the Simulation link 
+2.It should re-direct to the Simulation page
+3.Click on the 'stone test tool 2' link
+4.Drag replicated shapes provided in the  left hand side of the page and set on the accurate position of the image
+5.Click on the reset button","1.Simulation page should be opened
+2.Content should be present with no distortions and Junk characters
+3.A new page should be opened with the simulation process
+4.All the arranged parts should be ereased from the position",Inprogress,Nihanth,Refer to the test step id 1,"OS: Windows 7, Linux
+Browsers: Firefox,Chrome
+Bandwidth : 100Mbps
+Hardware Configuration:8GBRAM , 
+Processor:i5
+Plugin : Adobe flash player",,,,
+Virtual Anthropology Lab,,"User should be able to perform the Simulation of ""Identification of Prehistoric handaxe"" experiment",11,Positive,"To perform the Simulation of the ""Identification of Prehistoric handaxe"" experiment","1.Click on the Simulation link 
+2.It should re-direct to the Simulation page
+3.Click on the 'stone test tool 3' link
+4.Drag only one replicated shape provided in the  left hand side of the page and set on the accurate position of the image
+5.Click on the submit button","1.Simulation page should be opened
+2.Content should be present with no distortions and Junk characters
+3.A new page should be opened with the simulation process
+4.A 'try again' message should be displayed on the screen",Inprogress,Nihanth,Refer to the test step id 1,"OS: Windows 7, Linux
+Browsers: Firefox,Chrome
+Bandwidth : 100Mbps
+Hardware Configuration:8GBRAM , 
+Processor:i5
+Plugin : Adobe flash player",,,,
+Virtual Anthropology Lab,,"User should be able to perform the Simulation of ""Identification of Prehistoric handaxe"" experiment",12,Positive,"To perform the Simulation of the ""Identification of Prehistoric handaxe"" experiment","1.Click on the Simulation link 
+2.It should re-direct to the Simulation page
+3.Click on the 'stone test tool 3' link
+4.Drag replicated shapes provided in the  left hand side of the page and set on the accurate position of the image
+5.Click on the submit button","1.Simulation page should be opened
+2.Content should be present with no distortions and Junk characters
+3.A new page should be opened with the simulation process
+4.If the arranged parts are in correct order, then a successful message should be displayed on the screen ,if not 'try again' message should be displayed on the screen",Inprogress,Nihanth,Refer to the test step id 1,"OS: Windows 7, Linux
+Browsers: Firefox,Chrome
+Bandwidth : 100Mbps
+Hardware Configuration:8GBRAM , 
+Processor:i5
+Plugin : Adobe flash player",,,,
+Virtual Anthropology Lab,,"User should be able to perform the Simulation of ""Identification of Prehistoric handaxe"" experiment",13,Positive,"To perform the Simulation of the ""Identification of Prehistoric handaxe"" experiment","1.Click on the Simulation link 
+2.It should re-direct to the Simulation page
+3.Click on the 'stone test tool 3' link
+4.Drag replicated shapes provided in the  left hand side of the page and set on the accurate position of the image
+5.Click on the reset button","1.Simulation page should be opened
+2.Content should be present with no distortions and Junk characters
+3.A new page should be opened with the simulation process
+4.All the arranged parts should be ereased from the position",Inprogress,Nihanth,Refer to the test step id 1,"OS: Windows 7, Linux
+Browsers: Firefox,Chrome
+Bandwidth : 100Mbps
+Hardware Configuration:8GBRAM , 
+Processor:i5
+Plugin : Adobe flash player",,,,
+Virtual Anthropology Lab,,"User should be able to perform the Simulation of ""Identification of Prehistoric handaxe"" experiment",14,Positive,"To perform the Simulation of the ""Identification of Prehistoric handaxe"" experiment","1.Click on the Simulation link 
+2.It should re-direct to the Simulation page
+3.Click on the 'stone test tool 4' link
+4.Drag only one replicated shape provided in the  left hand side of the page and set on the accurate position of the image
+5.Click on the submit button","1.Simulation page should be opened
+2.Content should be present with no distortions and Junk characters
+3.A new page should be opened with the simulation process
+4.A 'try again' message should be displayed on the screen",Inprogress,Nihanth,Refer to the test step id 1,"OS: Windows 7, Linux
+Browsers: Firefox,Chrome
+Bandwidth : 100Mbps
+Hardware Configuration:8GBRAM , 
+Processor:i5
+Plugin : Adobe flash player",,,,
+Virtual Anthropology Lab,,"User should be able to perform the Simulation of ""Identification of Prehistoric handaxe"" experiment",15,Positive,"To perform the Simulation of the ""Identification of Prehistoric handaxe"" experiment","1.Click on the Simulation link 
+2.It should re-direct to the Simulation page
+3.Click on the 'stone test tool 4' link
+4.Drag replicated shapes provided in the  left hand side of the page and set on the accurate position of the image
+5.Click on the reset button","1.Simulation page should be opened
+2.Content should be present with no distortions and Junk characters
+3.A new page should be opened with the simulation process
+4.All the arranged parts should be ereased from the position",Inprogress,Nihanth,Refer to the test step id 1,"OS: Windows 7, Linux
+Browsers: Firefox,Chrome
+Bandwidth : 100Mbps
+Hardware Configuration:8GBRAM , 
+Processor:i5
+Plugin : Adobe flash player",,,,
+Virtual Anthropology Lab,,"User should be able to perform the Simulation of ""Identification of Prehistoric handaxe"" experiment",16,Positive,"To perform the Simulation of the ""Identification of Prehistoric handaxe"" experiment","1.Click on the Simulation link 
+2.It should re-direct to the Simulation page
+3.Click on the 'stone test tool 4' link
+4.Drag replicated shapes provided in the  left hand side of the page and set on the accurate position of the image
+5.Click on the submit button","1.Simulation page should be opened
+2.Content should be present with no distortions and Junk characters
+3.A new page should be opened with the simulation process
+4.If the arranged parts are in correct order, then a successful message should be displayed on the screen ,if not 'try again' message should be displayed on the screen",Inprogress,Nihanth,Refer to the test step id 1,"OS: Windows 7, Linux
+Browsers: Firefox,Chrome
+Bandwidth : 100Mbps
+Hardware Configuration:8GBRAM , 
+Processor:i5
+Plugin : Adobe flash player",,,,
+Virtual Anthropology Lab,,"User should be able to view ,take the Quiz and then cancel the Quiz of ""Identification of Prehistoric handaxe"" experiment",17,Positive,"To view ,take the Quiz and then cancel the Quiz of ""Identification of Prehistoric handaxe"" experiment","1.Click on the Quiz link 
+2.It should re-direct to the Quiz page with questions and answers
+3.Select the correct answer using the corresponding radio buttons and Click on the cancel button","1.Quiz page should be opened
+2.Content should be present with no distortions and Junk's characters
+3.Answers selected radio buttons should get unselected",Inprogress,Nihanth,Refer to the test step id 1,"OS: Windows 7, Linux
+Browsers: Firefox,Chrome
+Bandwidth : 100Mbps
+Hardware Configuration:8GBRAM , 
+Processor:i5",,,,
+Virtual Anthropology Lab,,"User should be able to view and take the test and then submit the Quiz of ""Identification of Prehistoric handaxe"" experiment",18,Positive,"To view ,take the Quiz and then submit the Quiz of ""Identification of Prehistoric handaxe"" experiment","1.Click on the Quiz link 
+2.It should re-direct to the Quiz page with questions and answers
+3.Select the correct answer using the corresponding radio buttons and Click on the submit button
+4.The options should be validated with the backend database","1.Quiz page should be opened
+2.Content should be present with no distortions and Junk's characters
+3.Result should be displayed with the correct option if the selected option is wrong. 
+4.If the selected option is correct a message should be displayed that the selected answer is correct",Inprogress,Nihanth,Refer to the test step id 1,"OS: Windows 7, Linux
+Browsers: Firefox,Chrome
+Bandwidth : 100Mbps
+Hardware Configuration:8GBRAM , 
+Processor:i5",,,,
+Virtual Anthropology Lab,,"User should be able to view and take the test and then submit the Quiz of ""Identification of Prehistoric handaxe"" experiment",19,Positive,"To view ,take the Quiz and then submit the Quiz of ""Identification of Prehistoric handaxe"" experiment","1.Click on the Quiz link 
+2.It should re-direct to the Quiz page with questions and answers
+3.In the Quiz select an option only for one question and then click on submit button","1.Quiz page should be opened
+2.Content should be present with no distortions and Junk's characters
+3.Result should be displayed with the correct option if the selected option is wrong or an error message should be displayed to complete the test.",Inprogress,Nihanth,Refer to the test step id 1,"OS: Windows 7, Linux
+Browsers: Firefox,Chrome
+Bandwidth : 100Mbps
+Hardware Configuration:8GBRAM , 
+Processor:i5",optional,,,
+Virtual Anthropology Lab,,"User should be able to cancel the Quiz of ""Identification of Prehistoric handaxe"" experiment without selecting the options",20,Out of box,To know if the radio buttons are not selected and Clicked on cancel button,"1.Click on the Quiz link 
+2.It should re-direct to the Quiz page with questions and answers
+3.Don't Select the options using the corresponding radio buttons and Click on the cancel button","1.Quiz page should be opened
+2.Content should be present with no distortions and Junk characters
+3.An error message should be dispalyed on the screen",Inprogress,Nihanth,Refer to the test step id 1,"OS: Windows 7, Linux
+Browsers: Firefox,Chrome
+Bandwidth : 100Mbps
+Hardware Configuration:8GBRAM , 
+Processor:i5",,,,
+Virtual Anthropology Lab,,"User should be able to submit the Quiz of ""Identification of Prehistoric handaxe"" experiment without selecting the options",21,Error,To know if the radio buttons are not selected and Clicked on submit button,"1.Click on the Quiz link 
+2.It should re-direct to the Quiz page
+3.Don't choose the options and Click on the submit button","1.Quiz page should be opened
+2.Content should be present with no distortions and Junk's characters
+3.Result should be displayed with the correct options or an error message should be displayed as to choose any one of the options",Inprogress,Nihanth,Refer to the test step id 1,"OS: Windows 7, Linux
+Browsers: Firefox,Chrome
+Bandwidth : 100Mbps
+Hardware Configuration:8GBRAM , 
+Processor:i5",,,,
+Virtual Anthropology Lab,,"User should be able to view and take the test and cancel the Quiz andthen submit the Quiz of ""Identification of Prehistoric handaxe"" experiment",22,Positive,"To view and take the quiz and cancel the Quiz and then submit the Quiz of ""Identification of Prehistoric handaxe"" experiment","1.Click on the Quiz link 
+2.It should re-direct to the Quiz page with questions and answers
+3.Select the correct answer using the corresponding radio buttons and Click on the cancel button
+4.Don't choose the options and Click on the submit button","1.Quiz page should be opened
+2.Content should be present with no distortions and Junk's characters
+3.Answers selected radio buttons should get unselected 
+4.Result should be displayed with the correct options or an error message should be displayed as to choose any one of the options",Inprogress,Nihanth,Refer to the test step id 1,"OS: Windows 7, Linux
+Browsers: Firefox,Chrome
+Bandwidth : 100Mbps
+Hardware Configuration:8GBRAM , 
+Processor:i5",,,,
+Virtual Anthropology Lab,,"User should be able to view the Assignments of ""Identification of Prehistoric handaxe"" experiment",23,Positive,"To view the Assignments of ""Identification of Prehistoric handaxe"" experiment","1.Click on the Assignments link 
+2.It should re-direct to the Assignments page","1.Assignments page should be opened
+2.Content should be present with no distortions and Junk characters",Inprogress,Nihanth,Refer to the test step id 1,"OS: Windows 7, Linux
+Browsers: Firefox,Chrome
+Bandwidth : 100Mbps
+Hardware Configuration:8GBRAM , 
+Processor:i5",,,,
+Virtual Anthropology Lab,,"User should be able to view the References of ""Identification of Prehistoric handaxe"" experiment",24,Positive,"To view the References of ""Identification of Prehistoric handaxe"" experiment","1.Click on the References link 
+2.It should re-direct to the References page","1.References page should be opened
+2.Content should be present with no distortions and Junk characters",Inprogress,Nihanth,Refer to the test step id 1,"OS: Windows 7, Linux
+Browsers: Firefox,Chrome
+Bandwidth : 100Mbps
+Hardware Configuration:8GBRAM , 
+Processor:i5",,,,
+Virtual Anthropology Lab,,User should be able to go to any other links of the experiment from any section of the experiment,25,Usability,To go to other links in the experiments,"1.Click on the Theoty link 
+2.It should re-direct to the Introduction page
+3.Click on the procedure or any other link","1.Theory page should be opened
+2.Content should be present with no distortions and Junk characters
+3.It should redirect to the procedure or any other page of the experiment.",Inprogress,Nihanth,Refer to the test step id 1,"OS: Windows 7, Linux
+Browsers: Firefox,Chrome
+Bandwidth : 100Mbps
+Hardware Configuration:8GBRAM , 
+Processor:i5
+",,,,
+Virtual Anthropology Lab,,"User should be provided with information on minimum system requirement to run the experiment. Like:
+
+Bandwidth : 
+Hardware Configuration:
+Processor:
+Device Resolution:
+Software Required:",26,Usability,User To view minium requirement to run the experiment,"1.Open the url vlabs.ac.in and vlabs home page will be displayed 
+2. Click on IIT Guwahati and a list of labs will be displayed on the screen 
+3.Select Virtual Anthropology Lab , it will redirect to the home page where a list of experiments will be displayed 
+4.Select  ""Identification of Prehistoric handaxe"" experiment.","A page or Scrolling should appear providing information on minimum requirement to run this experiment, information like:
+
+Bandwith
+Device Resolution
+Hardware Config
+Software Required",Inprogress,Nihanth,Refer to the test step id 1,"OS: Windows 7, Linux
+Browsers: Firefox,Chrome
+Bandwidth : 100Mbps
+Hardware Configuration:8GBRAM , 
+Processor:i5
+",,,,
