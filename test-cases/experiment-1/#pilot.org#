@@ -1,0 +1,268 @@
+#+TITLE: Test Cases
+#+DATE: 16.11.15
+#+DESCRIPTION: TEST CASES FOR DEMO PURPOSE
+
+* eee06_EXP_1
+** Setup
+-OS: Windows7,Linux
+-Browsers: Chrome,Firefox
+-Bandwidth: 100Mbps
+-Hardware Configuration: 8GBRAM
+-Processor: i5
+**Test Description
+-1.User friendliness of the Experiment
+-2.To view the Objectiveof ‘¡°To study the Synchronization of alternator with infinite bus bar‘¡± experiment\\
+-3.To view the Equipments of the "To study the Synchronization of alternator with infinite bus bar" experiment\\
+-4.To view the Theory of the "To study the Synchronization of alternator with infinite bus bar" experiment\\
+-5.To view the Connection Diagram of the "To study the Synchronization of alternator with infinite bus bar" Connection Diagram\\
+-6.To view the Procedure of the "To study the Synchronization of alternator with infinite bus bar" experiment\\
+-7.To view the Connection Diagram of ‘¡°To study the Synchronization of alternator with infinite bus bar‘¡± experiment from the Procedure page\\
+-8.To view the Observation of the "To study the Synchronization of alternator with infinite bus bar" Observation\\
+-9.To view the Simulation of the "To study the Synchronization of alternator with infinite bus bar" experiment\\
+-10.To Simulate the ‘¡°To study the Synchronization of alternator with infinite bus bar‘¡± experiment\\
+-11.To Simulate the ‘¡°To study the Synchronization of alternator with infinite bus bar‘¡± experiment\\
+-12.To Simulate the ‘¡°To study the Synchronization of alternator with infinite bus bar‘¡± experiment\\
+-13.To Simulate the ‘¡°To study the Synchronization of alternator with infinite bus bar‘¡± experiment\\
+-14.To Simulate the ‘¡°To study the Synchronization of alternator with infinite bus bar‘¡± experiment\\
+-15.To Simulate the ‘¡°To study the Synchronization of alternator with infinite bus bar‘¡± experiment\\
+-16.To Simulate the ‘¡°To study the Synchronization of alternator with infinite bus bar‘¡± experiment\\
+-17.To Simulate the ‘¡°To study the Synchronization of alternator with infinite bus bar‘¡± experiment\\
+-18.To Simulate the ‘¡°To study the Synchronization of alternator with infinite bus bar‘¡± experiment\\
+-19.To Simulate the ‘¡°To study the Synchronization of alternator with infinite bus bar‘¡± experiment\\
+-20.To Simulate the ‘¡°To study the Synchronization of alternator with infinite bus bar‘¡± experiment\\
+-21.To Simulate the ‘¡°To study the Synchronization of alternator with infinite bus bar‘¡± experiment\\
+-22.To Simulate the ‘¡°To study the Synchronization of alternator with infinite bus bar‘¡± experiment\\
+-23.To Simulate the ‘¡°To study the Synchronization of alternator with infinite bus bar‘¡± experiment\\
+-24.To Simulate the ‘¡°To study the Synchronization of alternator with infinite bus bar‘¡± experiment\\
+-25.To Simulate the ‘¡°To study the Synchronization of alternator with infinite bus bar‘¡± experiment\\
+-26.To Simulate the ‘¡°To study the Synchronization of alternator with infinite bus bar‘¡± experiment\\
+-27.To Simulate the ‘¡°To study the Synchronization of alternator with infinite bus bar‘¡± experiment\\
+-28.To view the Videos  of the "To study the Synchronization of alternator with infinite bus bar" Experiment\\
+-29.To view the Videos  of the "To study the Synchronization of alternator with infinite bus bar" Experiment\\
+-30.To view the Quiz of the "To study the Synchronization of alternator with infinite bus bar" experiment\\
+-31.To view take and cancel the Quiz of  ‘¡°To study the synchronization of the alternator with infinite bus bar‘¡± experiment\\
+-32.To view and take the Quiz of  ‘¡°To study the synchronization of the alternator with infinite bus bar‘¡± experiment\\
+-33.To view and take the Quiz of  ‘¡°To study the synchronization of the alternator with infinite bus bar‘¡± experiment\\
+-34.To view take and submit the Quiz ‘¡°To study the synchronization of the alternator with infinite bus bar‘¡± experiment\\
+-35To view the Feed Back  of the "To study the Synchronization of alternator with infinite bus bar" Feed Back\\
+-36.To give the Feed Back of the To study the synchronization of the alternator with infinite bus barexperiment\\
+-37.To give the Feed Back of the To study the synchronization of the alternator with infinite bus barexperiment\\
+-38.To give the Feed Back of the To study the synchronization of the alternator with infinite bus barexperiment\\
+-39.To give the Feed Back of the To study the synchronization of the alternator with infinite bus barexperiment\\
+-40.To go to other links in the experiments\\
+** Test steps
+-1.While testing observe for easiness to use the features of the experiment
+   1.1.Information to use the experiment
+   2.2.Navigation
+   3.3.Look and Feel
+   4.4.Speed
+-2.1. Click on the objective link\\
+-2.2. It should redirect to the objective page\\
+-3.1. Click on the equipments link\\
+-3.2. It should redirect to the equipment page\\
+-4.1. Click on the theory link\\
+-4.2. It should redirect to the theory page\\
+-5.1. Click on the connection diagram link\\
+-5.2. It should redirect to the connection diagram page\\
+-6.1. Click on the Procedure page\\ 
+-6.2. It should redirect to the procedure page\\
+-7.1. Repeat 6.1&6.2 steps\\
+-7.2. Click on the link'click here for connection diagram'\\
+-8.1. Click on the observations link\\
+-8.2. It should redirect to the observations page\\
+-9.1. Click on the simulation link\\
+-9.2. It should redirect to the simulation page\\
+-10.1.Repeat 9.1&9.2 steps\\
+-10.2.Click on'simulation of DC motor'link\\
+-11.1.Repeat 9.1&9.2 steps\\
+-11.2.Click on'simulation of DC motor'link\\
+-11.3.Don't enter the data in the input fields(Terminal Voltage variation(V),Variation in Rf(†Ù),Variation in Ra(†Ù)).\\
+-11.4.Click on the 'Calculate Motor Speed and Current' button \\
+-12.1.Repeat11.1&11.2 steps\\
+-12.2.Enter the invalid data in the input fields(Terminal Voltage variation(V),Variation in Rf(†Ù),Variation in Ra(†Ù)).\\
+-12.3.Click on the 'Calculate Motor Speed and Current' button\\
+-13.1.Repeat11.1&11.2 steps\\
+-13.2.Enter the data in the both input fields and output fields\\
+-14.1.Repeat11.1&11.2 steps\\
+-14.2.Enter the valid data in the input fields(Terminal Voltage variation(V),Variation in Rf(†Ù),Variation in Ra(†Ù)).\\
+-14.3.Click on the 'Calculate Motor Speed and Current' button\\
+-15.1.Repeat 9.1&9.2 steps\\
+-15.2.Click on the 'Simulation of alternator' link\
+-16.1.Repeat 15.1&15.2 steps\\
+-16.2.Don't enter the data in the input fields(Change in Speed(rpm),Variation in Rf(†Ù)).\\
+-16.3.Click on the ' Calculate Generator Voltage and Frequency' button\\
+-17.1.Repeat 15.1&15.2 steps\\
+-17.2.Enter invalid data in the input fields (Change in Speed(rpm),Variation in Rf(†Ù)).\\
+-17.3.Click on the 'Calculate Generator Voltage and Frequency' button.\\
+-18.1.Repeat 15.1&15.2 steps\\
+-18.2.Enter the data in the both input fields and output fields\\
+-18.3.Click on the 'Calculate Generator Voltage and Frequency' button.\\
+-19.1.Repeat 15.1&15.2 steps\\
+-19.2.Enter the valid data in the input fields (Change in Speed(rpm),Variation in Rf(†Ù))\\
+-19.3.Click on the 'Calculate Generator Voltage and Frequency' button.\\
+-20.1.Repeat 9.1&9.2 steps\\
+-20.2.Click on the 'Simulation of Motor-alternatror Set' link\\
+-21.1.Repeat 20.1&20.2 steps\\
+-21.2.Don't enter the data in the input fields (Variation in Motor Vt (-25(V) to +25(V)).Variation in external Rf of Motor(0 - 30 †Ù)
+,Variation in external Ra of Motor (0 - 20 †Ù),Variation in Rf of Generators (0 - 30 †Ù) ).\\
+-21.3.Click on the 'Calculate Motor Speed and Current' button\\
+-22.1.Repeat 20.1&20.2 steps\\
+-22.2.Enter invalid data in the input fields (Variation in Motor Vt (-25(V) to +25(V)).Variation in external Rf of Motor(0 - 30 †Ù)
+,Variation in external Ra of Motor (0 - 20 †Ù),Variation in Rf of Generators (0 - 30 †Ù) ).\\
+-22.3.Click on the 'Calculate Motor Speed and Current' button.\\
+-23.1.Repeat 20.1&20.2 steps\\
+-23.2.Enter the data in the both input fields and output fields\\
+-24.1.Repeat 20.1&20.2 steps\\
+-24.2.Enter the valid data in the input fields (Variation in Motor Vt (-25(V) to +25(V)).Variation in external Rf of Motor(0 - 30 †Ù)
+,Variation in external Ra of Motor (0 - 20 †Ù),Variation in Rf of Generators (0 - 30 †Ù) ).\\
+-24.3.Click on the 'Calculate Motor Speed and Current' button.\\
+-25.1.Repeat 9.1&9.2 steps\\
+-25.2.Click on Transient simulation of DC motor link.\\
+-26.1.Repeat 25.1&25.2 steps\\
+-26.2.Give the value in the plot time field and click on change time axis.\\
+-26.3.Choose the motor variable(speed,armaturecurrent,field current) from the motor drop down list.\\
+-26.4.Increase and Decrease the values of ra using the buttos present at the bottom of the graph.\\
+-26.5.Choose the colour(blue,black,red) from the colour pot drop down list.\\
+-27.1.Repeat 25.1&25.2 steps\\
+-27.2.Click on the "click here" link to download the java plugin\\
+-28.1.1.Click on the Videos   link \\
+-28.2.It should re-direct to the Videos  page\\
+-29.1.Repeat 28.1&28.2 steps\\
+-29.2.Click on the play button\\
+-30.1.1.Click on the Quiz link \\
+-30.2.It should re-direct to the Quiz page\\
+-31.1.Repeat 30.1&30.2 steps\\
+-31.2.Select the answers using the corresponding radio buttons for one question and click on the cancel button.\\
+-32.1.Repeat 30.1&30.2 steps\\
+-32.2.select the answers using the corresponding radio buttons for one question and click on the cancel button.\\
+-33.1.Repeat 30.1&30.2 steps\\
+-33.2.Don't select the options using the corresponding radio buttons and click on the final results button.\\
+-34.1.Repeat 30.1&30.2 steps\\
+-34.2.Select the correct answer using the corresponding radio buttons\\
+-34.3.After selecting the options for all questions click on the final results button.\\
+-35.1.1.Click on the Feed Back   link \\
+-35.2.It should re-direct to the Feedback  page\\
+-36.1.Repeat 35.1&35.2 steps\\
+-36.2.Don't enter the data in the corresponding fields and dono't choose the options using the corresponding radio buttons and click on submit button.\\
+-37.1.Repeat 35.1&35.2 steps\\
+-37.2.Enter the data in only one fields and click on submit button.\\
+-38.1.Repeat 35.1&35.2 steps\\
+-38.2.Enter the invalid data in all the fields and click on submit button.\\
+-39.1.Repeat 35.1&35.2 steps\\
+-39.2.Enter the invalid data in all the fields and click on submit button\\
+-40.1.1.Click on the Aim link \\
+-40.2.It should re-direct to the Aim page\\
+-40.3.Click on the procedure or any other link\\
+
+** Expected Result
+-1.Experiment should be user friendly\\
+-2.1.Objective page should be opened\\
+-2.2.Content should be present with no distortions and Junk characters\\
+-3.1.Equipments page should be opened\\
+-3.2.Content should be present with no distortions and Junk characters\\
+-4.1.1.Theory page should be opened\\
+-4.2.Content should be present with no distortions and Junk characters\\
+-5.1.Connection Diagram  page should be opened\\
+-5.2.ontent should be present with no distortions and Junk characters\\
+-6.1.Procedure page should be opened\\
+-6.2.Content should be present with no distortions and Junk characters\\
+-7.1.Procedure page should be opened\\
+-7.2.Content should be present with no distortions and Junk characters\\
+-7.3.It should redirect to the connection diagram page and the diagram should be displayed on the screen.\\
+-7.4.Content should be present with no distortions and Junk characters\\
+-8.1.Observation  page should be opened\\
+-8.2.Content should be present with no distortions and Junk characters\\
+-9.1.Simulation page should be opened\\
+-9.2.Content should be present with no distortions and Junk characters\\
+-10.1.Repeat 9.1&9.2 steps\\
+-10.2.A new page should be opened with the Simulation Process.\\
+-11.1.Repeat 10.1&10.2 steps\\
+-11.2.The data should be entered only in input fields and in output fields entry of the data should not accept.\\
+-12.1.Repeat 10.1&10.2 steps\\
+-12.2.The result should not be displayed in the output fields (Speed w(rpm),Current Ia(A)) and an error message should be displayed at the
+ input fields as to enter the valid values\\
+-13.1.Repeat 10.1&10.2 steps\\
+-13.2.The result should not be displayed in the output fields (Speed w(rpm),Current Ia(A)) and an error message should be displayed at 
+the input fields as to enter the valid values.\\
+-14.1.Repeat 10.1&10.2 steps\\
+-14.2.The result should be displayed in the output fields (Speed w(rpm),Current Ia(A)).\\
+-15.1.Simulation page should be opened\\
+-15.2.Content should be present with no distortions and Junk character\\
+-15.3.A new tab should be opened with the Simulation Process.\\
+-16.1.Repeat 15.1,15.2&15.3 steps\\
+-16.2.The result should not be displayed in the output fields (Frequency(Hz),Terminal Voltage(V)) and an error message should be displayed
+ at the input fields as to enter the valid values. \\
+-17.1.Repeat 15.1,15.2&15.3 steps\\
+-17.2.The result should not be displayed in the output fields (Frequency(Hz),Terminal Voltage(V)) and an error message should be displayed
+ at the input fields as to enter the valid values.\\
+-18.1.Repeat 15.1,15.2&15.3 steps\\
+-18.2.The data should be entered only in input fields and in output fields entry of the data should not accept.\\
+-19.1.Repeat 15.1,15.2&15.3 steps\\
+-19.2.The result should not be displayed in the output fields (Frequency(Hz),Terminal Voltage(V)) and an error message should be displayed
+ at the input fields as to enter the valid values.\\
+-20.1.Simulation page should be opened\\
+-20.2.Content should be present with no distortions and Junk character\\
+-20.3.A new tab should be opened with the Simulation Process.\\
+-21.1.Repeat 20.1,20.2&20.3 steps\\
+-21.2.The result should not be displayed in the output fields (Motor Speed(rpm),Motor Current(A),Generaotr Frequency(Hz),
+ Generator Voltage(V),Total voltage and frequency error) and an error message should be displayed at the input fields as
+ to enter the valid values.\\ 
+-22.1.Repeat 20.1,20.2&20.3 steps\\
+-22.2.The result should not be displayed in the output fields (Motor Speed(rpm),Motor Current(A),Generaotr Frequency(Hz),
+ Generator Voltage(V),Total voltage and frequency error) and an error message should be displayed at the input fields
+ as to enter the valid values.\\ 
+-23.1.Repeat 20.1,20.2&20.3 steps\\
+-23.2.The data should be entered only in input fields and in output fields entry of the data should not accept.\\
+-24.1.Repeat 20.1,20.2&20.3 steps\\
+-24.2.The result should be displayed in the output fields (Motor Speed(rpm),Motor Current(A),Generaotr Frequency(Hz),
+ Generator Voltage(V),Total voltage and frequency error).\\
+-25.1.Simulation page should be opened\\
+-25.2.Content should be present with no distortions and Junk character\\
+-25.3.A new tab should be opened with the Simulation Process.\\
+-26.1.Repeat 25.1,25.2&25.3 steps\\
+-26.2.The time values should be entered in the plot time fields.\\
+-26.3.When we choose the motor variable (speed,armaturecurrent,field current) from the motor drop down list ,
+ the result graph should be displayed on the screen and when we increase and decrease the values of ra the result graph
+ should also be changed according to the ra values.\\
+-26.4.Colour of the graph should be changed to the  colour selected.\\
+-27.1.Simulation page should be opened\\
+-27.2.Content should be present with no distortions and Junk character\\
+-27.3.A new tab should be opened with the Simulation Graph.\\
+-27.4.The java plugin should start downloading.\\
+-28.1.Videos page should be opened\\
+-28.2.Content should be present with no distortions and Junk characters\\
+-29.1.Repeat 28.1&28.2 steps\\
+-29.2.The video should be played and the video should be clear.\\
+-30.1.Quiz page should be opened\\
+-30.2.Content should be present with no distortions and Junk characters\\
+-31.1.Repeat 30.1&30.2 steps\\
+-31.2.All the selected options should get unselected\\
+-32.1.Repeat 30.1&30.2 steps\\
+-32.2.An error message should be displayed on the screen as to select the correct answers for all the questions\\
+-33.1.Repeat 30.1&30.2 steps\\
+-33.2.An error message should be displayed on the screen as to select the correct answers for all the questions\\
+-34.1.Repeat 30.1&30.2 steps\\
+-34.2.If the selected option is correct then a successful message should be displayed and if the selected option is wrong
+ then a message should be displayed with the correct option.\\
+-34.3.Final results should be displayed on the screen.\\
+-35.1.1.Feed Back   page should be opened\\
+-35.2.Content should be present with no distortions and Junk characters\\
+-36.1.Repeat 35.1&35.2 steps\\
+-36.2.An error message should be displayed on the screen\\
+-37.1.Repeat 35.1&35.2 steps\\
+-37.2.An error message should be displayed on the screen\\
+-38.1.Repeat 35.1&35.2 steps\\
+-38.2.An error message should be displayed on the screen as to enter the valid email-id in the corresponding field 
+ and click on submit button.\\
+-39.1.Repeat 35.1&35.2 steps\\
+-39.2.A message should be displayed on the screen that the feedback submitted successfully\\
+-40.1.Aim page should be opened\\
+-40.2.Content should be present with no distortions and Junk characters\\
+-40.3.It should redirect to the procedure or any other page of the experiment. \\
+
+
+* Reviews:
+
+
+
+* Comments:
