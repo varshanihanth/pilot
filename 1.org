@@ -14,10 +14,10 @@
 ** Test steps
    - While testing observe for easiness to use the features of the
      experiment
-     + Information to use the experiment
-     + Navigation
-     + Look and Feel
-     + Speed
+     1. Information to use the experiment
+     2. Navigation
+     3. Look and Feel
+     4. Speed
 ** Expected Result
    Experiment should be user friendly
 ** Pre/Post Conditions
