@@ -21,13 +21,13 @@
 ** Expected Result
    Experiment should be user friendly
 ** Pre/Post Conditions
-   1. Open the url vlabs.ac.in and vlabs home page will be displayed.
-   2. Click on IIIT-Hyderabad and a list of labs will be displayed on
-   the screen.  
-   3. Select Pattern Recognition Lab, a home page will be
-   displayed and click on list of experiments link, where a list of
-   experiments will be displayed.  
-   4. Select "Feature Representation" experiment.
+   - Open the url vlabs.ac.in and vlabs home page will be displayed.
+   - Click on IIIT-Hyderabad and a list of labs will be displayed on
+     the screen.
+   - Select Pattern Recognition Lab, a home page will be displayed and
+     click on list of experiments link, where a list of experiments
+     will be displayed.
+   - Select "Feature Representation" experiment.
 
 
 
